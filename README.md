@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steven-mpawulo
-- 👀 I’m interested in mobile app development and machine learning
-- 🌱 I’m currently learning kotlin, android, jetpack-compose, dart, flutter, firebase, python, scikit learn , keras, tensorflow and flask
-- 💞️ I’m looking to collaborate on mobile app development and machine learning
+- 👀 I’m interested in full stack development and machine learning
+- 🌱 I’m currently learning Html, css, javascript, react, nodejs, kotlin, android, jetpack-compose, dart, flutter, firebase, python, scikit learn , keras, tensorflow and flask
+- 💞️ I’m looking to collaborate on full stack development and machine learning
 - 📫 How to reach me ...
 - stevenmpawulo@gmail.com
 
